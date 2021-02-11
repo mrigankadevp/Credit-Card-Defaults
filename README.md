@@ -1,1 +1,1 @@
-# Credit-Card-Defaults
+Imported, transformed and loaded data into Power BI Desktop, modelled the data and reported on Credit Card Default statistics in US. The report uses Data Slicers to filter defaulters based on their education level, age, marital status and state.
